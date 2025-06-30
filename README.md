@@ -39,6 +39,11 @@ To open and explore the dashboard:
 2. Clone or download this repository
 3. Open the `.pbix` file and interact with the visuals
 
+## 🖼️ Dashboard Preview
+
+![Main dashboard view](assets/screenshot1.png)
+
+
 ## 📝 License
 
 This project is open for learning, presentation, and non-commercial use.
