@@ -45,7 +45,7 @@ To open and explore the dashboard:
 
 ![secondary](assets/screenshot2.png)
 
-![fianl](assets/screenshot.png) 
+![fianl](assets/screenshot3.png) 
 
 
 ## 📝 License
