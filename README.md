@@ -41,7 +41,9 @@ To open and explore the dashboard:
 
 ## 🖼️ Dashboard Preview
 
-![Main dashboard view](assets/screenshot1.png), [secondary](assets/screenshot2.png), [fianl](assets/screenshot.png) 
+![Main dashboard view](assets/screenshot1.png)
+[secondary](assets/screenshot2.png)
+[fianl](assets/screenshot.png) 
 
 
 ## 📝 License
